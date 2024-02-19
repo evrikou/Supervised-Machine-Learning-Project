@@ -8,12 +8,12 @@ We started pre processing our dataset, then building our machine learning model 
 
 ⚠ Disclaimer: This project is for educational purposes only and in any case the results are not guaranteed to be best practice.
 
-#Dataset
+# Dataset
 The Dataset we used is the following:
 
 https://www.kaggle.com/code/sadafpj/mobile-price-predition/input
 
-#Content
+# Content
 EDA:
 </br>1. Explanation of each column name
 </br>2. Pre-processing (handling zero values)
@@ -25,7 +25,7 @@ Machine Learning Model
 </br>3. Evaluation
 
 
-Software
+# Software
 ⚙️ Programming Language : Python
 
 Libraries used:
